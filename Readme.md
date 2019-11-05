@@ -12,7 +12,7 @@
 
 # Getting Started
 
-* [create a bot]([https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot))  
+* [create a bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot) 
 
 * clone the repo
 *  run the command *npm install* from the root directory of the project
@@ -20,12 +20,12 @@
 
 # Prerequisites
 
-[**Nodejs**]([https://nodejs.org/en/download/](https://nodejs.org/en/download/)).
+[**Nodejs**](https://nodejs.org/en/download/) 
 
 # Adding your bot to the servers
 
 
-Follow the guide at this [link]([https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links)) to add your bot to the servers.
+Follow the guide at this [link](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links) to add your bot to the servers.
 
 # Running the app
 
