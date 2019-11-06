@@ -1,0 +1,23 @@
+{
+  "name": "npp-bot",
+  "version": "1.0.0",
+  "description": "npp-bot is a discord bot for the discord server Nodejs paired programming. The purpose of the bot is to provide new users on the server with resources (getting started tutorials, projects, important links, etc) for node and few frameworks, to get them started.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejspairedprogramming/npp-bot.git"
+  },
+  "author": "NodeJS Paired Programming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodejspairedprogramming/npp-bot/issues"
+  },
+  "homepage": "https://github.com/nodejspairedprogramming/npp-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^6.6.0"
+  }
+}
